@@ -1,1 +1,26 @@
-[]
+[
+	{
+		"code": "&kp LMET(LS)",
+		"name": "&kp LMET(LS)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&kp LMETA(LS)",
+		"name": "&kp LMETA(LS)",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&kp ",
+		"name": "&kp ",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
