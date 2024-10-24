@@ -80,11 +80,11 @@
 
         layer_ARROWS {
             bindings = <
- &trans  &trans    &trans    &trans     &trans         &trans            &trans                                                  &trans         &trans             &trans           &trans            &trans      &trans  &trans
- &trans  &trans  &kp HOME    &kp UP    &kp END         &trans            &trans                                                  &trans          &none           &kp HOME           &kp UP           &kp END      &trans  &trans
- &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &kp BACKSPACE            &trans  &trans  &trans                  &trans  &trans  &trans  &kp BACKSPACE           &kp LEFT         &kp DOWN         &kp RIGHT      &trans  &trans
- &trans  &trans    &trans    &trans  &kp ENTER      &kp ENTER                            &trans                  &trans                      &kp ENTER          &kp ENTER            &none             &none      &trans  &trans
- &trans  &trans    &trans    &trans     &trans                           &trans  &trans  &trans                  &trans  &trans  &trans                 &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_PLAY_PAUSE  &kp C_MUTE  &trans
+ &trans  &trans    &trans    &trans     &trans         &trans            &trans                                                  &trans         &trans             &trans           &trans            &trans      &trans  &kp PIPE
+ &trans  &trans  &kp HOME    &kp UP    &kp END         &trans            &trans                                                  &trans          &none           &kp HOME           &kp UP           &kp END      &trans  &kp PIPE
+ &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &kp BACKSPACE            &trans  &trans  &trans                  &trans  &trans  &trans  &kp BACKSPACE           &kp LEFT         &kp DOWN         &kp RIGHT      &trans  &kp PIPE
+ &trans  &trans    &trans    &trans  &kp ENTER      &kp ENTER                            &trans                  &trans                      &kp ENTER          &kp ENTER            &none             &none      &trans    &trans
+ &trans  &trans    &trans    &trans     &trans                           &trans  &trans  &trans                  &trans  &trans  &trans                 &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_PLAY_PAUSE  &kp C_MUTE    &trans
             >;
         };
 
